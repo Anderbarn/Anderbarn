@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Ander
 
-<!--
-**Anderbarn/Anderbarn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a final-year **Mathematical Engineering in Data Science** student at **Universitat Pompeu Fabra (UPF)** in Barcelona, with an exchange semester at **Radboud University** in the Netherlands.
 
-Here are some ideas to get you started:
+I'm particularly interested in **statistics, probability and data analytics**, especially in applying mathematical models to real-world problems and data-driven decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+- **Data Analytics Intern at Barcelona de Serveis Municipals (BSM)**, working on business intelligence, data analysis and predictive modelling.
+- Interested in **statistical modelling, probability, machine learning and predictive analytics**.
+- Currently exploring **probabilistic modelling and decision-making under uncertainty** for my bachelor's thesis.
+- Participating in a collaborative **football data hackathon**.
+
+## Currently exploring
+
+- Statistical and probabilistic modelling.
+- Applications of probability to airline overbooking and decision-making.
+- Data-driven approaches to real-world problems.
